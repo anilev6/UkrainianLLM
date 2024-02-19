@@ -1,7 +1,6 @@
 .env
 *.lock
-
-project-1-at-2024-02-13-22-30-ff0f6dc4.json
-clean_data.json
-data_gpt_3_5_turbo.json
-report_gpt_3_5_turbo.txt
+*.json
+*.txt
+\__pycache__
+*.pyc
